@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Sparsh, written on a contribution-style grid with a heat wave running through the letters" width="100%">
+  <img src="assets/hero-light.svg" alt="Sparsh, built as a 3D skyline on a contribution-style grid, with a heat wave running through the letters" width="100%">
 </picture>
 
 ### Sparsh Khanna
@@ -22,11 +22,21 @@ Earlier coursework: [Communicado](https://github.com/Sparshkhannaa/Communicado) 
 
 ### Right now
 
-Working through Coursera's Advanced Embedded Linux Development course.
+Learning embedded Linux.
 
-### Everyday tools
+### Languages I've written
 
-Python · TypeScript · Java · C · SQL · Shell · Linux
+<p>
+  <img src="assets/icons/python.svg" height="40" alt="Python" title="Python">&nbsp;
+  <img src="assets/icons/java.svg" height="40" alt="Java" title="Java">&nbsp;
+  <img src="assets/icons/javascript.svg" height="40" alt="JavaScript" title="JavaScript">&nbsp;
+  <img src="assets/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript">&nbsp;
+  <img src="assets/icons/c.svg" height="40" alt="C" title="C">&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash-dark.svg"><img src="assets/icons/bash.svg" height="40" alt="Bash" title="Bash"></picture>&nbsp;
+  <img src="assets/icons/html5.svg" height="40" alt="HTML" title="HTML">&nbsp;
+  <img src="assets/icons/css3.svg" height="40" alt="CSS" title="CSS">&nbsp;
+  <img src="assets/icons/postgresql.svg" height="40" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)">
+</p>
 
 ### Say hello
 
