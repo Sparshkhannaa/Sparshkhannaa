@@ -24,18 +24,23 @@ Earlier coursework: [Communicado](https://github.com/Sparshkhannaa/Communicado) 
 
 Learning embedded Linux.
 
-### Languages I've written
+### Languages and tools
 
+<!-- Each icon sits in a <picture> so GitHub doesn't turn it into a link to the image file. -->
 <p>
-  <img src="assets/icons/python.svg" height="40" alt="Python" title="Python">&nbsp;
-  <img src="assets/icons/java.svg" height="40" alt="Java" title="Java">&nbsp;
-  <img src="assets/icons/javascript.svg" height="40" alt="JavaScript" title="JavaScript">&nbsp;
-  <img src="assets/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript">&nbsp;
-  <img src="assets/icons/c.svg" height="40" alt="C" title="C">&nbsp;
+  <picture><img src="assets/icons/python.svg" height="40" alt="Python" title="Python"></picture>&nbsp;
+  <picture><img src="assets/icons/java.svg" height="40" alt="Java" title="Java"></picture>&nbsp;
+  <picture><img src="assets/icons/javascript.svg" height="40" alt="JavaScript" title="JavaScript"></picture>&nbsp;
+  <picture><img src="assets/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript"></picture>&nbsp;
+  <picture><img src="assets/icons/c.svg" height="40" alt="C" title="C"></picture>&nbsp;
+  <picture><img src="assets/icons/cplusplus.svg" height="40" alt="C++" title="C++"></picture>&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash-dark.svg"><img src="assets/icons/bash.svg" height="40" alt="Bash" title="Bash"></picture>&nbsp;
-  <img src="assets/icons/html5.svg" height="40" alt="HTML" title="HTML">&nbsp;
-  <img src="assets/icons/css3.svg" height="40" alt="CSS" title="CSS">&nbsp;
-  <img src="assets/icons/postgresql.svg" height="40" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)">
+  <picture><img src="assets/icons/powershell.svg" height="40" alt="PowerShell" title="PowerShell"></picture>&nbsp;
+  <picture><img src="assets/icons/html5.svg" height="40" alt="HTML" title="HTML"></picture>&nbsp;
+  <picture><img src="assets/icons/css3.svg" height="40" alt="CSS" title="CSS"></picture>&nbsp;
+  <picture><img src="assets/icons/postgresql.svg" height="40" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)"></picture>&nbsp;
+  <picture><img src="assets/icons/cmake.svg" height="40" alt="CMake" title="CMake"></picture>&nbsp;
+  <picture><img src="assets/icons/docker.svg" height="40" alt="Docker" title="Docker"></picture>
 </p>
 
 ### Say hello
